@@ -1,8 +1,8 @@
-Projeto LIFO e FIFO
+# Projeto LIFO e FIFO
 
-Disciplina: Estrutura de Dados
-Professor: Walter Travassos
-Aluno: Aryosvalldo Cleef de Souza
+## Disciplina: Estrutura de Dados
+## Professor: Walter Travassos
+## Aluno: Aryosvalldo Cleef de Souza
 
 O projeto deve interagir apresentar um menu inicial onde o usuário deve escolher se vai operar numa pilha sequencial,
 pilha encadeada, fila sequencial ou fila encadeada. Deve redirecionar para o menu de operações correto.
