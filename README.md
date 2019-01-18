@@ -1,4 +1,4 @@
-# Projeto LIFO e FIFO
+# faculdade-proj-estrutura-dados
 
 <b>Disciplina:</b> Estrutura de Dados<br>
 <b>Professor:</b> Walter Travassos<br>
